@@ -14,9 +14,6 @@ max_attempts = 3
 attempts = 0
 
 
-# SIMULATED CPU USAGE VALUES (PERCENTAGES)
-
-cpu_usages = [45, 55, 67, 73, 81, 65, 90, 78]
 
 # Check credentials using if/else
 
